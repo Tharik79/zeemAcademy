@@ -1,0 +1,14 @@
+body{
+    background-image: url("https://www.designyourway.net/blog/wp-content/uploads/2018/09/photo-1516642898673-edd1ced.jpg");
+    
+}
+.nav-item{
+    color: white;
+}
+.navbar-text{
+    color: white;
+}
+.image{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
