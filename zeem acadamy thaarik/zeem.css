@@ -1,0 +1,31 @@
+/* aside{
+    width: 50%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  font-style: italic;
+  background-color: lightgray;
+} */
+
+.about{
+    margin: 30px;
+    margin-top: 300px;
+}
+
+body{
+    background-image: url(https://st5.depositphotos.com/38909590/64195/i/600/depositphotos_641959270-stock-photo-word-learn-english-paper-ped.jpg);
+    height: 50px;
+    
+    background-repeat: no-repeat;
+    background-color: aquamarine;
+    
+}
+/* .container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 300px;
+  } */
+  /* .img1{
+    background-image: url("D:\zeemAcademy\zeem acadamy thaarik\learn english1.jpg");
+  } */
